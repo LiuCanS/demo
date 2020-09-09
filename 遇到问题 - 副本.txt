@@ -1,0 +1,39 @@
+2020 09 02
+
+1传递字符串数组 后端解析时 出现 对象属性转换发生异常
+Can not deserialize instance of java.util.ArrayList out of START_OBJECT token
+
+背景 
+ 使用@RequestBody List<String> list 解析对象体
+
+原因：
+ 前端传值时 将token值放入到请求体中 无法直接将请求体转换为list对象
+
+解决方法
+ 使用@RequestBody AbcDto abc  解析请求体 将需要的链表放入到AbcDto类中
+
+
+
+接口设计：
+  需求：改变对应表中的一个字段时
+  可以传递 对应字段的主键 （以链表 或 数组形式传递）+ 状态 的形式 方便后期的批量处理
+
+
+2020.09 03
+本地项目上传到github中
+(前提 ： 1本地有git  2有github账号)
+1 在github中构建项目
+2 将项目下载到本地
+3 将本地项目拖入到git项目中
+4 上传项目
+  git add ..  ---> git commit -m "备注" --->git push --->输入用户名 密码  LiuCanS  LIUcan123
+
+
+2020 09 09 
+使用Eolinker 
+ 1在使用时出现许多Data 1。。。。N 命名的类
+
+出现原因：
+ get方法选择json格式传值时使用了 object 类型数据
+
+
