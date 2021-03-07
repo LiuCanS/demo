@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5570058d-26ed-4bf3-b533-b65355ac2fba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/CommonUtil9000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/excel/EasyExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/excel/listener/ExcelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/excel/rowmodel/OrderRowModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/excel/rowmodel/StoreTableRowModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/excel/time/LocalDateTimeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/file/MyMultipartUploadRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/file/QCloudProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/file/SpringContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/qr/QRCodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/entiry/MsgModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/excel/EasyExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/excel/ExcelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/excel/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/excel/MsgTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/BankSmsCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/HttpClientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/SmsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/dto/BaseSendMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/dto/BatchMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/dto/BatchPersonalMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/dto/RegisterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/dto/SendMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/dto/SingleMessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/sdk/webservice/service/BusinessSendMessageImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/ExcelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/ImageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/QRController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/SdkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/dto/StoreTableDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/dto/TableListDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/target/cloud-common-util-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-common-util/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/excel/DemoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/excel/ExcelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MyRibbonBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/myrule/MySelfRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderFeginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/entities/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/entities/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/service/FeginPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/atguigu/springcloud/EurekaMain7001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/GateWay9527.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/atguigu/springcloud/config/GateWayConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/atguigu/springcloud/PaymentMain8006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/atguigu/springcloud/entities/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/atguigu/springcloud/entities/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/entities/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/entities/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/atguigu/springcloud/PaymentMain8003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/atguigu/springcloud/entities/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/atguigu/springcloud/entities/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/src/main/java/JarTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/src/main/java/TestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/target/jar-test-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar-test/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty-studty/netty-studty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty-studty/src/nettystudy/TeatMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/netty/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/netty/HelloServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/netty/NettyTcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/netty/NettyTcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/nettyHan/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/nettyHan/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/nettyHan/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio-study/src/main/java/nettyHan/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hurIrAdRdIti9dnObqdr28VawO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="E:/kdlq/pocket-payment-v2-test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.10693877" />
+    <property name="project.structure.side.proportion" value="0.32818183" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/FileController.java" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\刘灿灿\IdeaProjects\myCloud\cloud-common-util\src\main\java\com\lcc\util\excel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\刘灿灿\IdeaProjects\myCloud\cloud-common-util\src\main\java\com\lcc\util\sdk" />
+      <recent name="C:\Users\刘灿灿\IdeaProjects\myCloud\cloud-common-util\src\main\resources" />
+      <recent name="C:\Users\刘灿灿\IdeaProjects\myCloud\cloud-provider-hystrix-payment8001\src\main\resources" />
+      <recent name="C:\Users\刘灿灿\IdeaProjects\myCloud\cloud-gateway-gateway9527\src\main\resources" />
+      <recent name="C:\Users\刘灿灿\IdeaProjects\myCloud\cloud-eureka-server7001\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="om.atguigu.springcloud.dao" />
+      <recent name="om.atguigu.springcloud.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="netty" />
+      <recent name="com.lcc.util.test" />
+      <recent name="com.lcc.util.test.controller" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nettyHan.NettyClient" />
+      <module name="nio-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nettyHan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nettyHan.NettyServer" />
+      <module name="nio-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nettyHan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyTcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.NettyTcpClient" />
+      <module name="nio-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyTcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.NettyTcpServer" />
+      <module name="nio-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeatMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nettystudy.TeatMain" />
+      <module name="netty-studty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nettystudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-common-util" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lcc.util.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-consul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TeatMain" />
+      <item itemvalue="Application.NettyTcpServer" />
+      <item itemvalue="Application.NettyTcpClient" />
+      <item itemvalue="Application.NettyServer" />
+      <item itemvalue="Application.NettyClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.NettyTcpClient" />
+        <item itemvalue="Application.NettyTcpServer" />
+        <item itemvalue="Application.TeatMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5570058d-26ed-4bf3-b533-b65355ac2fba" name="Default Changelist" comment="" />
+      <created>1600871744844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600871744844</updated>
+      <workItem from="1600871746063" duration="6015000" />
+      <workItem from="1601297963601" duration="51531000" />
+      <workItem from="1605188073355" duration="604000" />
+      <workItem from="1605534214144" duration="3952000" />
+      <workItem from="1605676086120" duration="607000" />
+      <workItem from="1606141551846" duration="1341000" />
+      <workItem from="1606315278859" duration="2408000" />
+      <workItem from="1606832183510" duration="766000" />
+      <workItem from="1608645090914" duration="1643000" />
+      <workItem from="1608647283784" duration="2310000" />
+      <workItem from="1608969261595" duration="956000" />
+      <workItem from="1609851775550" duration="614000" />
+      <workItem from="1610378117961" duration="1866000" />
+      <workItem from="1611066753118" duration="132000" />
+      <workItem from="1611067021240" duration="923000" />
+      <workItem from="1611992137446" duration="862000" />
+      <workItem from="1611993114967" duration="456000" />
+      <workItem from="1611993686466" duration="2659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1614869570382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614869570382" />
+    <state x="379" y="0" width="622" height="728" key="#TestFrame" timestamp="1612101861928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="622" height="728" key="#TestFrame/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1612101861928" />
+    <state x="432" y="232" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1615008644873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="232" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1615008644873" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1614872768014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614872768014" />
+    <state x="476" y="118" key="FileChooserDialogImpl" timestamp="1615008642085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1612101518523" />
+    <state x="476" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615008642085" />
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom" timestamp="1615008662025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614873017198" />
+    <state width="1323" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615008662025" />
+    <state width="1323" height="250" key="GridCell.Tab.0.center" timestamp="1615008662025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614873017198" />
+    <state width="1323" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615008662025" />
+    <state width="1323" height="250" key="GridCell.Tab.0.left" timestamp="1615008662025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614873017198" />
+    <state width="1323" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615008662025" />
+    <state width="1323" height="250" key="GridCell.Tab.0.right" timestamp="1615008662025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="250" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614873017198" />
+    <state width="1323" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615008662025" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1615017853087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1615017853087" />
+    <state x="176" y="0" key="SettingsEditor" timestamp="1615029812483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="176" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614871696146" />
+    <state x="176" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1615029812483" />
+    <state x="57" y="0" key="new project wizard" timestamp="1614869498743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1614869498743" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/TestController.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/TestController.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/TestController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/test/controller/TestController.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud-common-util/src/main/java/com/lcc/util/CommonUtil9000.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nio-study/src/main/java/netty/NettyTcpClient.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

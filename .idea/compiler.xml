@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-provider-payment8003" />
+        <module name="untitled" />
+        <module name="common" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-common-util" />
+        <module name="jar-test" />
+        <module name="cloud-provider-payment8001" />
+        <module name="nio-study" />
+        <module name="cloud-consumer-order80" />
+        <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-provider-consul-payment8006" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-provider-payment8001 (1)" target="1.8" />
+      <module name="cloud-provider-payment8002" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
